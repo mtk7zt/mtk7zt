@@ -1,12 +1,8 @@
-# Hey, I'm 👋
+# Hey, I'm Esosa, You can call me Sosa 
 
-I'm a software developer focused on building reliable systems across **backend engineering, AI, and financial technology**.
+I'm a full stack engineer focused on building reliable systems.
 
-I enjoy taking ideas beyond the prototype stage — thinking about architecture, correctness, testing, reliability, and how software behaves when things don't go exactly as expected.
-
-Right now, I'm especially interested in **Java backend development, event-driven systems, financial technology, and applied AI.**
-
----
+I enjoy building and piecing ideas beyond the prototype stage, thinking about architecture, correctness, testing, reliability, and how software or a solution behaves when things don't go exactly as expected.
 
 ## 🚧 Currently Building
 
@@ -31,7 +27,7 @@ Current engineering work includes deterministic replay, idempotent event handlin
 
 ### Languages
 
-`Java` `Python` `JavaScript` `TypeScript` `SQL`
+`Java` `Python` `JavaScript` `TypeScript` `SQL` `Css`
 
 ### Backend & Web
 
@@ -47,13 +43,13 @@ Current engineering work includes deterministic replay, idempotent event handlin
 
 ---
 
-## 🧪 Projects & Experiments
+## 🧪 Projects
 
 ### Scholly
-AI-assisted tooling for researching and working with academic material.
+AI-assisted tool for researching and working with academic materials.
 
 ### Venturis
-Exploring multi-agent architecture for a personal AI assistant.
+Exploring multi-agent architecture for a personal AI assistance.
 
 ---
 
@@ -69,4 +65,5 @@ Exploring multi-agent architecture for a personal AI assistant.
 
 ## 📫 Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](www.linkedin.com/in/
+e-sosa)
