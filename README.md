@@ -65,5 +65,4 @@ Exploring multi-agent architecture for a personal AI assistance.
 
 ## 📫 Connect
 
-[LinkedIn](www.linkedin.com/in/
-e-sosa)
+[LinkedIn](www.linkedin.com/in/e-sosa)
