@@ -1,4 +1,4 @@
-# Hey, I'm Esosa, You can call me Sosa 
+# Hey, I'm Esosa, 
 
 I'm a full stack engineer focused on building reliable systems.
 
